@@ -26,25 +26,6 @@ The project utilizes **n8n workflows**, **CrewAI agents**, **Python scripting**,
 
 ---
 
-## 📈 Project Goals
-
-### Short-Term Goals (Mini Project: ~100 hrs)
-- [ ] Connect to Oracle DB from Python
-- [ ] Retrieve tablespace usage data
-- [ ] Build initial n8n workflow
-- [ ] Implement a basic agent to respond with action
-- [ ] Route action in n8n: log, extend, or alert
-
-### Main Project Goals (~300+ hrs)
-- [ ] Develop smart AI prompt chaining and state memory
-- [ ] Integrate historical monitoring data
-- [ ] Build autoextend script safely
-- [ ] Add Streamlit dashboard
-- [ ] Document all modules and workflows
-- [ ] Deploy in containerized environment (Docker Compose)
-
----
-
 ## 🔁 System Workflow (High-Level)
 
 ```text
